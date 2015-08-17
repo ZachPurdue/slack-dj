@@ -1,12 +1,11 @@
 # slack.dj
 
 A .dj plugin to allow slack users to create, control, and modify a plug.dj playlist from a dedicated slack channel.
-
 ================
 
 # Contributors
 
-### Zach Perry (ZachPurdue) (creator)
+# Zach Perry (ZachPurdue) (creator)
 
 ================
 
@@ -33,6 +32,7 @@ A .dj plugin to allow slack users to create, control, and modify a plug.dj playl
 ================
 
 # APIs Used
+
    - https://appi.slack.com
    - https://github.com/plugCubed/plugAPI
    - https://github.com/atomjack/plugbotapi
