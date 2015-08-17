@@ -1,4 +1,4 @@
-# slack.dj
+# slack.dj - WORK IN PROGRESS
 
 A .dj plugin to allow slack users to create, control, and modify a plug.dj playlist from a dedicated slack channel.
 
